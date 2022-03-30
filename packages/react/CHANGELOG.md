@@ -1,5 +1,16 @@
 # @aws-amplify/ui-react
 
+## 2.13.0
+
+### Minor Changes
+
+- [#1566](https://github.com/aws-amplify/amplify-ui/pull/1566) [`7ce9dd531`](https://github.com/aws-amplify/amplify-ui/commit/7ce9dd5313b85d9f4b4cab8c7e329e37551e1690) Thanks [@jacoblogan](https://github.com/jacoblogan)! - added useBreakpointValue hook
+
+### Patch Changes
+
+- Updated dependencies [[`c00b0f016`](https://github.com/aws-amplify/amplify-ui/commit/c00b0f0161f4df56c3d2ec75ffe0d2975bb859ac)]:
+  - @aws-amplify/ui@3.4.1
+
 ## 2.12.0
 
 ### Minor Changes
